@@ -155,4 +155,8 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Developed as a professional Python automation and web scraping project for portfolio and educational purposes.
+Fayas Fais
+
+GitHub: @fayasfais
+LinkedIn: fayas-fais-8bb84630a
+Email: fayasfais44@gmail.com
