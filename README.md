@@ -155,8 +155,8 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Fayas Fais
+**Fayas Fais**
+- GitHub: [@fayasfais](https://github.com/fayasfais)
+- LinkedIn: [fayas-fais-8bb84630a](https://linkedin.com/in/fayas-fais-8bb84630a)
+- Email: fayasfais44@gmail.com
 
-GitHub: @fayasfais
-LinkedIn: fayas-fais-8bb84630a
-Email: fayasfais44@gmail.com
